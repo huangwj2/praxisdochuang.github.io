@@ -9,6 +9,10 @@
   font-family: 'Lora';
 }
 
+strong, #year {
+  margin-right: 1em;
+}
+
 #huang-name {
   font-size: 1.5rem;
 }
