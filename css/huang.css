@@ -11,6 +11,12 @@
 
 strong, #year {
   margin-right: 1em;
+  font-family: Monaco;
+}
+
+.qualification {
+  padding-left: 46px;
+  text-indent: -46px;
 }
 
 #huang-name {
