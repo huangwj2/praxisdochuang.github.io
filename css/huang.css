@@ -10,11 +10,13 @@
 }
 
 #welcome_first {
-  font-size: 3rem;
+  font-size: 2.5rem;
+  font-family: Raleway;
 }
 
 #welcome_second {
   margin-top: 12px;
+  font-family: Raleway;
   font-size: 1.4rem;
   font-weight: bold;
 }
