@@ -9,6 +9,16 @@
   font-family: 'Lora';
 }
 
+#welcome_first {
+  font-size: 3rem;
+}
+
+#welcome_second {
+  margin-top: 12px;
+  font-size: 1.4rem;
+  font-weight: bold;
+}
+
 strong, #year {
   margin-right: 1em;
   font-family: Monaco;
@@ -21,6 +31,10 @@ strong, #year {
 
 #huang-name {
   font-size: 1.5rem;
+}
+
+#img-front-praxis {
+  width: 60%;
 }
 
 #img-front-huang {
