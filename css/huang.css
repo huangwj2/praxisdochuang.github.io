@@ -67,3 +67,13 @@ a:hover {
 a:active {
   color: #e6a756;
 }
+
+.contact.huang {
+  border-radius: 0.5rem;
+  position: absolute;
+  top: -0.5rem;
+  bottom: -0.5rem;
+  left: -0.5rem;
+  right: -0.5rem;
+  border: 0.25rem solid rgba(255, 255, 255, 0.85);
+}
