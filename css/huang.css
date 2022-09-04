@@ -84,14 +84,3 @@ a:active {
   right: -0.5rem;
   border: 0.25rem solid rgba(255, 255, 255, 0.85);
 }
-
-.copy {
-  border-radius: 10%;
-  border-color: #ffc107;
-  background-color: #f8f9fa;
-  height: 32px;
-}
-
-.copy::after {
-  content: '📋';
-}
