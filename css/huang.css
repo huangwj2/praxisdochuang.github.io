@@ -68,7 +68,14 @@ a:active {
   color: #e6a756;
 }
 
-.contact-huang .contact-huang-inner:before {
+.contact-huang {
+  position: relative;
+  padding: 3rem;
+  margin: 0.5rem;
+  background-color: rgba(255, 255, 255, 0.85);
+}
+
+.contact-huang:before {
   border-radius: 0.5rem;
   position: absolute;
   top: -0.5rem;
